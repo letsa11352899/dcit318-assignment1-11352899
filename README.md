@@ -1,1 +1,2 @@
 # dcit318-assignment1-11352899
+This repository contains three C# console applications developed for DCIT 318 Assignment 1. The applications include a Grade Calculator, which converts a numerical grade into a letter grade; a Ticket Price Calculator, which determines ticket cost based on age; and a Triangle Type Identifier, which classifies triangles based on side lengths. Each program is implemented as a separate console project and can be run using Visual Studio or the .NET CLI. The repository includes separate commits for each task, as required.
